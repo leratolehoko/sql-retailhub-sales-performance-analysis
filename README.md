@@ -73,10 +73,30 @@ Relationships were established using Primary Keys and Foreign Keys to maintain d
 - RetailHub_Sales_Performance_Analysis.sql
 - RetailHub_Sales_Performance_Analysis_Report.pdf
 
+ ## Tools Used
+
+- MySQL
+- MySQL Workbench
+- GitHub
+
 ---
 
 ## Author
 
-**Lerato Lehoko**
+Lerato Lehoko
+
+Bachelor of Science (Biochemistry & Statistics)
+
+Aspiring Data Analyst passionate about SQL, Business Intelligence and Data Analytics.
+
+LinkedIn:
+https://www.linkedin.com/in/lerato-lehoko-b75b68372
+
+GitHub:
+https://github.com/leratolehoko 
+
+---
+
+
 
 Aspiring Data Analyst passionate about SQL, Business Intelligence and Data Analytics.
